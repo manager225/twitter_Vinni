@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Twitter Vinni
+## Мини Твиттер с возможностью добавлять/удалять посты, выделять как важные и лайкать. Есть фильтрация постов.
+![Imgur](https://i.imgur.com/ijvJMcr.gif)
 
 In the project directory, you can run:
 
